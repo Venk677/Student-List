@@ -1,0 +1,11 @@
+body {
+    color: white;
+}
+
+tr {
+    background-color: black;
+}
+
+th {
+    font-weight: bolder;
+}
